@@ -184,6 +184,10 @@
     flex-direction: column;
   }
 
+  .video-responsive {
+    width: 100%;
+  }
+
   .link-list {
     width: 100%;
     padding: 15px;
