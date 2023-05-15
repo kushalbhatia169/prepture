@@ -1,0 +1,273 @@
+{
+  "Navigation": {
+    "topMenuBar": {
+      "title":"Prepture Inc.",
+      "titleImg": "portfolio/prepture.png"
+    },
+    "navLinks": [
+      {
+        "name": "Home"
+      },
+      {
+        "name": "Services"
+      },
+      {
+        "name": "About"
+      },
+      {
+        "name": "Testimonials"
+      },
+      {
+        "name": "Learning"
+      },
+      {
+        "name": "Contact"
+      }
+    ]
+  },
+  "Header": {
+    "title": "Prepture Inc.",
+    "paragraph": "Our passion is to see our clients succeed and, our aim is to ensure we become part of that success. At Prepture, we believe in nothing but ‘the best’ in everything we do."
+  },
+  "About": {
+    "paragraph": [
+      "Founded in 2020, Our passion is to see our clients succeed and, our aim is to ensure we become part of that success. At Prepture, we believe in nothing but ‘the best’ in everything we do.",
+    
+      "Most of our founders have been on the ‘client’ side in their professional experience and they carry in-depth understanding of what it takes for the organizations to find a trusted partner for many critical assignments. Be in setting up shared services projects or selection of appropriate applications or implementation and adoption of existing applications, we know it all and, we know that standard solution doesn’t always help all the organizations and that’s where we ensure dedicating and customized approach catering to the needs and requirements to all our clients.",
+    
+      "Our Vision is to become the best partner of our clients. We want to be known as the most trustworthy and reliable alliance for our clients and write the success stories with them."
+    ],
+    "Why": [
+      "HR IT consulting services to ensure best possible solutions to their requirements.",
+      "Project Management to deliver expected outcomes within timelines and within budget.",
+      "Workforce Management to help organizations find the best suitable.",
+      "Organization Development with effective training delivery. What makes us unique in our segment is the passion of our employees and vision of our leadership"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "portfolio/01-large.jpg",
+      "smallImage": "portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "portfolio/02-large.jpg",
+      "smallImage": "portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "portfolio/03-large.jpg",
+      "smallImage": "portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "portfolio/04-large.jpg",
+      "smallImage": "portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "portfolio/05-large.jpg",
+      "smallImage": "portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "portfolio/06-large.jpg",
+      "smallImage": "portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "portfolio/07-large.jpg",
+      "smallImage": "portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "portfolio/08-large.jpg",
+      "smallImage": "portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "portfolio/09-large.jpg",
+      "smallImage": "portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "img": "productManagement.jpeg",
+      "name": "Project Management",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "img": "organizationManagement.jpeg",
+      "name": "Organization Management",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "img": "resourceManagement.jpeg",
+      "name": "Resources Management",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "img": "erpImplementation.jpeg",
+      "name": "ERP Implementation",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "img": "erpImplementation.jpeg",
+      "name": "Process Improvement",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "team/03.jpg",
+      "name": "Eingh",
+      "job": "Director"
+    },
+    {
+      "img": "team/04.jpg",
+      "name": "Mingh",
+      "job": "Assistant Vice President"
+    },
+    {
+      "img": "team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "33A, Nangloi, Delhi - 110043, India",
+    "phone1": "+91 7042665454",
+    "phone2": "+91 7982171841",
+    "email": "prepturegeneralqueries@gmail.com",
+    "socialMedia": {
+      "facebook": {
+        "link": "https://www.facebook.com/Prepture",
+        "iconClass": "fa fa-facebook"
+      },
+      "twitter": {
+        "link": "https://twitter.com/prepture",
+        "iconClass": "fa fa-twitter"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/prepture/",
+        "iconClass": "fa fa-linkedin"
+      },
+      "youtube": {
+        "link": "https://www.youtube.com/c/LearningwithPrepture",
+        "iconClass": "fa fa-youtube"
+      }
+    },
+    "footerImg": "portfolio/prepture.png"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ],
+  "Learning": {
+    "youtubeLinks": [
+      {
+        "link": "https://www.youtube.com/embed/qBZvB9FWycU",
+        "text": "Use of article \"The\" (Part - 2)",
+        "selected" : "link1",
+        "img": "link1.png"
+      },{
+        "link": "https://www.youtube.com/embed/CbSp9UbQVgU",
+        "text": "Word Related To Ganesh Chaturthi",
+        "selected" : "link2",
+        "img": "link2.png"
+      },
+      {
+        "link": "https://www.youtube.com/embed/Lucmuj-vcV8",
+        "text": "4 Common Sentences",
+        "selected" : "link3",
+        "img": "link3.png"
+      },
+      {
+        "link": "https://www.youtube.com/embed/m_jJKmHnbZ0",
+        "text": "Difference between Has to and Have to",
+        "selected" : "link4",
+        "img": "link4.png"
+      },
+      {
+        "link": "https://www.youtube.com/embed/NZPTeQ0DDXw",
+        "text": "Daily Usage Sentence",
+        "selected" : "link5",
+        "img": "link5.png"
+      },
+      {
+        "link": "https://www.youtube.com/embed/RP8p0YjBb1s",
+        "text": "5 Words To Replace",
+        "selected" : "link6",
+        "img": "link6.png"
+      }
+    ],
+    "learnMoreLink": "https://www.youtube.com/c/LearningwithPrepture"
+  }
+}

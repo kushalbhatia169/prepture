@@ -1,0 +1,169 @@
+/* learning Section */
+#learning {
+    padding: 100px 0;
+  }
+  #learning i {
+    color: #e6e6e6;
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  .learning {
+    position: relative;
+    padding: 20px;
+  }
+  .learning-image {
+    float: left;
+    margin-right: 15px;
+  }
+  .learning-image,
+  .learning-image img {
+    display: block;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+  }
+  .learning-content {
+    position: relative;
+    overflow: hidden;
+  }
+  .learning-content p {
+    margin-bottom: 0;
+    font-size: 14px;
+    font-style: italic;
+  }
+  .learning-meta {
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #666;
+  }
+  .video-responsive-section {
+    display: flex;
+  }
+  .video-responsive {
+    overflow: hidden;
+    padding-bottom: 50%;
+    position: relative;
+    height: 0;
+    width: 70%;
+  }
+  
+  .video-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+
+  .link-list {
+    width: 30%;
+    padding: 15px;
+    padding-right: unset;
+    height: 600px;
+  }
+
+  .link-list h3 {
+    display: flex;
+    justify-content: center;
+    margin-top: unset;
+  }
+
+  .link-list ul {
+    height: 500px;
+    overflow: unset;
+    overflow-x: scroll;
+    border: 1px solid black;
+  }
+
+  .link-list ul > li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    padding: 20px;
+    width: 100%;
+  }
+  
+  .link-list ul > li > span{
+    font-size: 16px;
+    margin-right: 10px;
+  }
+
+  .link-list ul > li > .youtube-img {
+    border-radius: 25px;
+    background-position: initial;
+    background-repeat: round !important;
+    padding: 20px;
+    height: 60px;
+    width: 90px;
+  }
+
+  .link-list ul > li >.link-1 {
+    background: url(../asset/link1.png);
+  }
+
+  .link-list ul > li >.link-2 {
+    background: url(../asset/link2.png);
+  }
+
+  .link-list ul > li >.link-3 {
+    background: url(../asset/link3.png);
+  }
+
+  .link-list ul > li >.link-4 {
+    background: url(../asset/link4.png);
+  }
+
+  .link-list ul > li >.link-5 {
+    background: url(../asset/link5.png);
+  }
+
+  .link-list ul > li >.link-6 {
+    background: url(../asset/link6.png);
+  }
+
+  .link-list ul > li > button{
+    background-color: transparent;
+    border: unset;
+    width: 70%;
+    font-size: 16px;
+    font-weight: 900;
+  }
+
+  .link-list ul >li > button:hover, .video-link-active, .view-more-div .view-more-button:hover{
+    background: -webkit-linear-gradient(#6372ff, #5ca9fb);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-decoration: underline;
+  }
+
+  .link-list ul .view-more-div {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+
+  .link-list ul .view-more-div .view-more-button {
+    border: 1px solid #777777;
+    padding: 10px;
+    color: #777777;
+    font-size: 16px;
+    font-weight: 900;
+  }
+
+  .link-list ul .view-more-div .view-more-button:hover {
+    border: 1px solid #777777;
+    padding: 10px;
+    background-color: #777777;
+    color: whitesmoke;
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  #learning .container .learn-more-link {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
