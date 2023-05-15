@@ -228,42 +228,43 @@
   "Learning": {
     "youtubeLinks": [
       {
-        "link": "https://www.youtube.com/embed/qBZvB9FWycU",
+        "id": "qBZvB9FWycU",
         "text": "Use of article \"The\" (Part - 2)",
         "selected": "link1",
         "img": "link1.png"
       },
       {
-        "link": "https://www.youtube.com/embed/CbSp9UbQVgU",
+        "id": "CbSp9UbQVgU",
         "text": "Word Related To Ganesh Chaturthi",
         "selected": "link2",
         "img": "link2.png"
       },
       {
-        "link": "https://www.youtube.com/embed/Lucmuj-vcV8",
+        "id": "Lucmuj-vcV8",
         "text": "4 Common Sentences",
         "selected": "link3",
         "img": "link3.png"
       },
       {
-        "link": "https://www.youtube.com/embed/m_jJKmHnbZ0",
+        "id": "m_jJKmHnbZ0",
         "text": "Difference between Has to and Have to",
         "selected": "link4",
         "img": "link4.png"
       },
       {
-        "link": "https://www.youtube.com/embed/NZPTeQ0DDXw",
+        "id": "NZPTeQ0DDXw",
         "text": "Daily Usage Sentence",
         "selected": "link5",
         "img": "link5.png"
       },
       {
-        "link": "https://www.youtube.com/embed/RP8p0YjBb1s",
+        "id": "RP8p0YjBb1s",
         "text": "5 Words To Replace",
         "selected": "link6",
         "img": "link6.png"
       }
     ],
+    "baseVideoLink": "https://www.youtube.com/embed/",
     "learnMoreLink": "https://www.youtube.com/c/LearningwithPrepture"
   }
 }

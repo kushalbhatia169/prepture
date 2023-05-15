@@ -3,9 +3,9 @@ import LoadImage from "../../components/getImage";
 
 export const Learning = (props) => {
 
-  const [videoLink, setVideoLink] = useState(props.data.youtubeLinks[0].link);
+  const [videoLink, setVideoLink] = useState(`${props.data.baseVideoLink}${props.data.youtubeLinks[0].id}`);
   const [videoLinkNumber, setVideoLinkNumber] = useState(props.data.youtubeLinks[0].selected);
-
+    console.log(props.data.youtubeLinks[0].id)
   return (
     <div id="learning">
       <div className="container">
@@ -31,11 +31,11 @@ export const Learning = (props) => {
                     {
                         props.data ? props.data.youtubeLinks.map((item, index) => {
                             return (<>
-                                <li id={`${item.link}${index}`} className={videoLinkNumber === item.selected ? 'video-link-active': ""}>
+                                <li id={`${item.id}${index}`} className={videoLinkNumber === item.selected ? 'video-link-active': ""}>
                                     <span><b>{index+1}</b></span>
-                                    <div className={`youtube-img link-${index+1}`}/>
+                                    <img  className="youtube-img" src={`https://img.youtube.com/vi/${item.id}/hqdefault.jpg`} alt="..."/>
                                     <button onClick={() => {
-                                        setVideoLink(item.link);
+                                        setVideoLink(`${props.data.baseVideoLink}${item.id}`);
                                         setVideoLinkNumber(item.selected);
                                     }}>{item.text}</button>
                                 </li>

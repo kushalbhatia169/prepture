@@ -102,14 +102,11 @@
 
 .link-list ul>li>.youtube-img {
   border-radius: 25px;
-  background-position: initial;
-  background-repeat: round !important;
-  padding: 20px;
-  height: 60px;
-  width: 90px;
+  height: 100px;
+  width: 100px;
 }
 
-.link-list ul>li>.link-1 {
+/* .link-list ul>li>.link-1 {
   background: url(../asset/link1.png);
 }
 
@@ -131,7 +128,7 @@
 
 .link-list ul>li>.link-6 {
   background: url(../asset/link6.png);
-}
+} */
 
 .link-list ul>li>button {
   background-color: transparent;
