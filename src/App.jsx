@@ -16,7 +16,7 @@ const App = () => {
   
   const [landingPageData, setLandingPageData] = useState({});
   const [_isMounted, _setIsMounted] = useState(true);
-  const { Navigation, Home, About, Services, Contact, Testimonials, Learning } = Pages;
+  const { Navigation, Home, About, Services, Contact, /*Testimonials,*/ Learning } = Pages;
   // toast.configure();
 
   useEffect(() => {
@@ -37,7 +37,7 @@ const App = () => {
       <About data={landingPageData.About} />
       {/* <Features data={landingPageData.Features} /> */}
       {/* <Gallery data={landingPageData.Gallery} /> */}
-      <Testimonials data={landingPageData.Testimonials} />
+      {/* <Testimonials data={landingPageData.Testimonials} /> */}
       <Learning data={landingPageData.Learning} />
       {/* <Team data={landingPageData.Team} /> */}
       <Contact data={landingPageData.Contact} />

@@ -1,7 +1,7 @@
 {
   "Navigation": {
     "topMenuBar": {
-      "title":"Prepture Inc.",
+      "title": "Prepture Inc.",
       "titleImg": "portfolio/prepture.png"
     },
     "navLinks": [
@@ -13,9 +13,6 @@
       },
       {
         "name": "About"
-      },
-      {
-        "name": "Testimonials"
       },
       {
         "name": "Learning"
@@ -32,9 +29,7 @@
   "About": {
     "paragraph": [
       "Founded in 2020, Our passion is to see our clients succeed and, our aim is to ensure we become part of that success. At Prepture, we believe in nothing but ‘the best’ in everything we do.",
-    
       "Most of our founders have been on the ‘client’ side in their professional experience and they carry in-depth understanding of what it takes for the organizations to find a trusted partner for many critical assignments. Be in setting up shared services projects or selection of appropriate applications or implementation and adoption of existing applications, we know it all and, we know that standard solution doesn’t always help all the organizations and that’s where we ensure dedicating and customized approach catering to the needs and requirements to all our clients.",
-    
       "Our Vision is to become the best partner of our clients. We want to be known as the most trustworthy and reliable alliance for our clients and write the success stories with them."
     ],
     "Why": [
@@ -235,36 +230,37 @@
       {
         "link": "https://www.youtube.com/embed/qBZvB9FWycU",
         "text": "Use of article \"The\" (Part - 2)",
-        "selected" : "link1",
+        "selected": "link1",
         "img": "link1.png"
-      },{
+      },
+      {
         "link": "https://www.youtube.com/embed/CbSp9UbQVgU",
         "text": "Word Related To Ganesh Chaturthi",
-        "selected" : "link2",
+        "selected": "link2",
         "img": "link2.png"
       },
       {
         "link": "https://www.youtube.com/embed/Lucmuj-vcV8",
         "text": "4 Common Sentences",
-        "selected" : "link3",
+        "selected": "link3",
         "img": "link3.png"
       },
       {
         "link": "https://www.youtube.com/embed/m_jJKmHnbZ0",
         "text": "Difference between Has to and Have to",
-        "selected" : "link4",
+        "selected": "link4",
         "img": "link4.png"
       },
       {
         "link": "https://www.youtube.com/embed/NZPTeQ0DDXw",
         "text": "Daily Usage Sentence",
-        "selected" : "link5",
+        "selected": "link5",
         "img": "link5.png"
       },
       {
         "link": "https://www.youtube.com/embed/RP8p0YjBb1s",
         "text": "5 Words To Replace",
-        "selected" : "link6",
+        "selected": "link6",
         "img": "link6.png"
       }
     ],
