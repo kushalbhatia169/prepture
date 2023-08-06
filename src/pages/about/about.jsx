@@ -20,7 +20,7 @@ export const About = (props) => {
               <div className="col-lg-12">
                 <ul>
                   {props.data
-                    ? props.data.Why.map((d, i) => (
+                    ? props.data?.Why.map((d, i) => (
                         <li key={`${d}-${i}`}>{d}</li>
                       ))
                     : "loading"}
@@ -34,7 +34,7 @@ export const About = (props) => {
                       ))
                     : "loading"}
                 </ul>
-              </div> */}
+              </div>*/} 
             </div>
           </div>
         </div>

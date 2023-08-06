@@ -1,7 +1,7 @@
 /* Services Section */
 #services {
     padding: 100px 0;
-    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    background: linear-gradient(to right, #FF4141 0%, #5ca9fb 100%);
     color: #fff;
 }
 #services .service-desc {
@@ -40,4 +40,15 @@
 }
 #services .service-desc {
     margin-bottom: 40px;
+}
+
+#services .services-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  #services .services-content  {
+    flex-direction: column;
+  }
 }

@@ -15,21 +15,17 @@
         "name": "About"
       },
       {
-        "name": "Learning"
-      },
-      {
         "name": "Contact"
       }
     ]
   },
   "Header": {
     "title": "Prepture Inc.",
-    "paragraph": "Our passion is to see our clients succeed and, our aim is to ensure we become part of that success. At Prepture, we believe in nothing but ‘the best’ in everything we do."
+    "paragraph": "Collaborative Consulting for Long Lasting Impact"
   },
   "About": {
     "paragraph": [
-      "Founded in 2020, Our passion is to see our clients succeed and, our aim is to ensure we become part of that success. At Prepture, we believe in nothing but ‘the best’ in everything we do.",
-      "Most of our founders have been on the ‘client’ side in their professional experience and they carry in-depth understanding of what it takes for the organizations to find a trusted partner for many critical assignments. Be in setting up shared services projects or selection of appropriate applications or implementation and adoption of existing applications, we know it all and, we know that standard solution doesn’t always help all the organizations and that’s where we ensure dedicating and customized approach catering to the needs and requirements to all our clients.",
+      "At Prepture, we are driven by a simple yet powerful vision - to be the best partner for our clients. Founded in 2020, we bring a deep understanding of your needs, having been on the \"client\" side ourselves. Our customized approach ensures tailored solutions for every organization.Trust, reliability, and success stories define our commitment. Partner with us and experience excellence.",
       "Our Vision is to become the best partner of our clients. We want to be known as the most trustworthy and reliable alliance for our clients and write the success stories with them."
     ],
     "Why": [
@@ -97,31 +93,37 @@
       "icon": "fa fa-wordpress",
       "img": "productManagement.jpeg",
       "name": "Project Management",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "img": "organizationManagement.jpeg",
-      "name": "Organization Management",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "img": "resourceManagement.jpeg",
-      "name": "Resources Management",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "img": "erpImplementation.jpeg",
-      "name": "ERP Implementation",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Unlock the full potential of your projects with our professional Project Management services. We specialize in delivering seamless project execution, enabling organizations to achieve their goals efficiently and effectively."
     },
     {
       "icon": "fa fa-plane",
-      "img": "erpImplementation.jpeg",
-      "name": "Process Improvement",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "liveCustomSupport.jpg",
+      "name": "Live Customer Support",
+      "text": "Partner with us to enhance user satisfaction, reduce administrative burden, and optimize the utilization of your HCM and LMS platforms. Our live support services ensure uninterrupted assistance, increased user adoption, and a seamless user experience. Contact us today to discuss how our services can benefit your organization."
+    },
+    {
+      "icon": "fa fa-language",
+      "img": "erpImplementation.jpg",
+      "name": "ERP Implementation",
+      "text": "Transform your business operations and drive efficiency with our comprehensive ERP Implementation services. We specialize in guiding organizations through the process of adopting and integrating robust Enterprise Resource Planning (ERP) systems to streamline their workflows and optimize their overall performance."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "img": "resourceManagement.jpg",
+      "name": "Resources Management",
+      "text": "Optimize your resource utilization and drive operational efficiency with our comprehensive Resource Management services. We specialize in helping businesses effectively allocate, track, and maximize their resources to achieve their goals and deliver exceptional results."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "img": "hrTechnologyConsulting.jpg",
+      "name": "HR Technology Consulting",
+      "text": "We offer comprehensive Technology Consulting services to help businesses harness the power of technology and drive digital transformation. Our team of expert consultants combines deep industry knowledge with cutting-edge technology expertise to deliver innovative solutions that propel your organization forward."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "img": "organizationManagement.jpg",
+      "name": "Organization Development",
+      "text": "We offer comprehensive Organization Development services to help businesses thrive in today's rapidly evolving landscape. Our experienced consultants' partner with organizations to optimize their structures, systems, and culture, enabling them to adapt, innovate, and achieve sustainable growth."
     }
   ],
   "Testimonials": [
@@ -179,10 +181,10 @@
     }
   ],
   "Contact": {
-    "address": "33A, Nangloi, Delhi - 110043, India",
+    "address": "H-10, G/F KH NO. 44/16 South West Delhi – 110043 India",
     "phone1": "+91 7042665454",
     "phone2": "+91 7982171841",
-    "email": "prepturegeneralqueries@gmail.com",
+    "email": "info@prepture.com",
     "socialMedia": {
       "facebook": {
         "link": "https://www.facebook.com/Prepture",
@@ -201,7 +203,7 @@
         "iconClass": "fa fa-youtube"
       }
     },
-    "footerImg": "portfolio/prepture.png"
+    "footerImg": "portfolio/preptureLogo.png"
   },
   "Features": [
     {

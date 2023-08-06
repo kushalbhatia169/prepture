@@ -13,7 +13,7 @@ export const Home = (props) => {
                   {props.data ? props.data.title : "Loading"}
                   <span></span>
                 </h1>
-                <p>{props.data ? props.data.paragraph : "Loading"}</p>
+                <p className="into-paragraph-text">{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
                   href="#about"
                   className="btn btn-custom btn-lg page-scroll"

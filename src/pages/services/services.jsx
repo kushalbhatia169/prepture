@@ -11,7 +11,7 @@ export const Services = (props) => {
             Project Management to deliver expected outcomes within timelines and within budget.
           </p>
         </div>
-        <div className="row">
+        <div className="services-content">
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="col-md-4">

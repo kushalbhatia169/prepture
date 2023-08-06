@@ -22,7 +22,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top" style={Styles.navigationStyles}>
-            <LoadImage height={34} width={34} imageUrl={props.data ? props.data.topMenuBar.titleImg : ""} alt="preture logo"/>&nbsp;{props.data ? props.data.topMenuBar.title : ""}
+            <LoadImage height={40} width={150} imageUrl={props.data ? props.data.topMenuBar.titleImg : ""} alt="preture logo"/>
           </a>{" "}
         </div>
 
